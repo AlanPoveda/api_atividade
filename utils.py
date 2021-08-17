@@ -32,5 +32,5 @@ if __name__ == '__main__':
     #insere_pessoas()
     updatePessoa()
     consultaByName()
-    #deletePessoa()
+    deletePessoa()
     consulta()
